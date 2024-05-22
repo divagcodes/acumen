@@ -6,9 +6,9 @@ body {
     background-blend-mode: overlay;
 }
 
-/* .overlay {
+.overlay {
     background-color: #71591BB7;
     width: 100%;
     height: 100vh;
     position: absolute;
-} */
+}
